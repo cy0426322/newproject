@@ -1,0 +1,30 @@
+body {
+    background: #f8f9fa;
+}
+
+.sidebar {
+    background: #fff;
+    height: 100vh;
+    border-right: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.tree-menu {
+    background: #fff;
+    height: 100vh;
+    border-right: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.content {
+    padding: 20px;
+}
+
+.tree-item {
+    cursor: pointer;
+    padding: 6px 10px;
+}
+
+.tree-item:hover {
+    background: #e9ecef;
+}
